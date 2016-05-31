@@ -6,13 +6,13 @@ color:
     - '#94AAB7'
     - '#C3D2D5'
     - '#647994'
-  brandStrength: 0.3567735770092847
-  lightness: 0.7680493513282369
-  rhythmicContrast: 0.42039348837829527
-  saturation: 0.3587003174208031
+  brandStrength: 0.658305
+  lightness: 0.768049
+  rhythmicContrast: 0.420393
+  saturation: 0.605674
 cta: {}
-layout_spectrum: 0.6746435439578381
-name: Love is where you are.
+layout_spectrum: 0.352796
+name: Love is where you are
 opengraph: {}
 purpose: {}
 typography_spectrum: 0.115174621327782
